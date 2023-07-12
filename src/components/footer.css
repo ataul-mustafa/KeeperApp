@@ -1,0 +1,12 @@
+.footer{
+    /* position: absolute; */
+    text-align: center;
+    /* bottom: 0; */
+    width: 100vw;
+    display: inline-block;
+}
+.footer h1{
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(61, 56, 56);
+}

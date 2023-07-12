@@ -1,0 +1,12 @@
+.header{
+    /* height: 30px; */
+    background-color: rgb(255, 217, 0);
+    margin: auto -16px 30px;
+    padding: 1px 40px;
+    box-shadow: 5px 0 5px 5px rgba(43, 42, 42, 0.5);
+}
+.header h1{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+}

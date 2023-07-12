@@ -1,0 +1,42 @@
+.Item{
+    color: rgb(102, 4, 4);
+    margin: 12.5px;
+    width: 200px;
+    padding: 10px;
+    min-height: 230px;
+    background-color: rgb(250, 249, 188);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 2px rgba(49, 47, 47, 0.5);
+    float: left;
+}
+
+.Item h1{
+    color: #fff;
+    font-size: 22px;
+    text-align: center;
+    background-color: rgb(255, 217, 0);
+    padding: 0 5px 0 5px;
+}
+.Item h2{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+.Item button{
+    color: #fff;
+    background-color: rgb(250, 249, 188);
+    /* position: absolute;
+    bottom: 0; */
+    /* bottom:3.5vh; */
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(255, 217, 0);
+    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.5) inset;
+    cursor: pointer;
+}
+
+@media (max-width-310) {
+    
+}
